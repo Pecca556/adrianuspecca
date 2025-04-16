@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: adrianuspecca/your-repo-name
+  repo: pecca556/adrianuspecca
   branch: main
 
 media_folder: "assets/images"
